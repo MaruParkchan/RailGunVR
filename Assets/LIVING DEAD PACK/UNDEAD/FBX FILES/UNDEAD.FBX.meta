@@ -1,0 +1,906 @@
+fileFormatVersion: 2
+guid: ff2e9e2dbc9da4a409c28cd06fca86ed
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      43: 4300000
+    second: UNDEAD
+  - first:
+      43: 4300002
+    second: rustied_sword
+  - first:
+      43: 4300004
+    second: rusty_axe
+  - first:
+      43: 4300006
+    second: haircut_A
+  - first:
+      43: 4300008
+    second: haircut_B
+  - first:
+      43: 4300010
+    second: shirt
+  - first:
+      43: 4300012
+    second: pants
+  - first:
+      43: 4300014
+    second: boots
+  - first:
+      43: 4300016
+    second: intestines
+  - first:
+      43: 4300018
+    second: bare_foot
+  - first:
+      74: 7400000
+    second: Take 001 //// UNDEAD
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau #37"
+    second: {fileID: 2100000, guid: 0ee4def2826e402439b5d081aaec784e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PANTS
+    second: {fileID: 2100000, guid: 6e9bf0a1a401ea94ea23a5ba766b3ef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHIRT_A
+    second: {fileID: 2100000, guid: 3cc9b29b348a6c649bfcca9fa6585b17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UNDEAD
+    second: {fileID: 2100000, guid: cb51ef7d9e93894448e66c0b56b3f577, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: intestines
+    second: {fileID: 2100000, guid: dd0b48772e616ff429ed263c536417ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rust_axe
+    second: {fileID: 2100000, guid: 5dc7fe3b2aeed384b9125ea90391aed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rusty_sword
+    second: {fileID: 2100000, guid: a73b6d3c98a9c5041bff63c161ccca8d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 726a3ba182a41da46a339eef15347d22
+  - a0aa31553a887204c9b5d1a51237801a
+  - ed96bffac67794845a07e80d8d054236
+  - bdf4d99cc28104b4ea939b5984c4ebe7
+  - a79cc4687c30dbb4883a44a591ff6166
+  - fc9c1c235549e09449f2d34c2c942979
+  - d53587317c464004a927a13458c5651b
+  - eeb1253c933848448b23a94979baf329
+  - afa4a9fda7e8509449b6d75b88d26d1d
+  - 9af27f34c0c4a84438b30c1269672c5e
+  - 43cbbe584322bab43b203d0494e0ccdb
+  - 3dcc54ae1c03a7541a5113c88d61edc6
+  - a141473fc8dca3e489755c3dad139153
+  - 10aaabe85c3d9f84dbebbf1ee97ddc44
+  - 0d3e07bae7cfd014fb4a8a1ed5adb27f
+  - 668dec1d90d1afd48874086e251bc1e5
+  - 1e946f58d8eb2af4f814598a96f8d714
+  - cac78f3247b5a8b44bbbf163d2efd25c
+  - 176f1ea39bebcf64ea756b87d2274dcf
+  - 5b52dab70bf9da14393c29c4d55b217d
+  - a4997372e16cfa84c99f33ed492cea89
+  - 037de711ffa3f314d8242c91eeca7c67
+  - 63632e578d3e9e644a7e6453ab0125a8
+  - 83ac02e830b44664eba12ca239135362
+  - 7ec73376f8205cc438b4096d603eb75c
+  - ec373d7b4c73f3b4583bb5a1e1b6f224
+  - 06932ed579e92494e81fec030cec3516
+  - ea3ccbd0c52f2064faf3fac0676f01fc
+  - 07dded01640d074478092ce33a5f09cb
+  - 2d2192960b1d8d144826d97c01ca80d2
+  - f4bd2b3838c83444bb6e4f134adbe8d4
+  - 19784e9851004794d87aeaeeb1c93247
+  - ef42f53fe66f1cd42a4b8de7d0da7d72
+  - cd53fa1a11c1b3448adb374ea3541567
+  - 3bb1221b518727a4db03b616f517346c
+  - ca94ea551bbb41f408fb032362f9667c
+  - a87613b17910a0d4b832d8f84b966be4
+  - b2d954e481d40ce4f9160190195a010c
+  - 7a71bd32750c5f9408b512db44b29f24
+  - 92c8733c67dd3594c869065d7cd156f4
+  - 64f89146a3a7f7443863c8e39a0cb620
+  - bfa3293b33b26154cb77db8148174977
+  - a96229ab2260e4044931cd300a676229
+  - 98cf539afa5497e44ad028060301a482
+  - 42046e828ab12044d8872f37495051aa
+  - ea3e135519089f649a8e767b0ae08c44
+  - 29224441d5aed8b44be3096483d896ad
+  - f9389ba2f25f1d64cbf9fb3597d0c8c8
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: UNDEAD_ Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNDEAD_ R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: UNDEAD(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0.00014945785, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UNDEAD
+      parentName: UNDEAD(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UNDEAD_
+      parentName: UNDEAD(Clone)
+      position: {x: -0, y: 1.054, z: -0.043}
+      rotation: {x: -0.49988565, y: 0.5001371, z: 0.50001323, w: 0.49996406}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UNDEAD_ Pelvis
+      parentName: UNDEAD_
+      position: {x: -0.0000016641288, y: 0.000007390976, z: 0.036557674}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1.0000002, y: 1.0000026, z: 1.0000023}
+    - name: UNDEAD_ Spine
+      parentName: UNDEAD_ Pelvis
+      position: {x: -0.10920311, y: -0.00018388272, z: 0.00000015171244}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.000002, z: 1.0000023}
+    - name: Factice001
+      parentName: UNDEAD_ Spine
+      position: {x: -0.07898743, y: -0.013232173, z: 0.000033950804}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Factice002
+      parentName: Factice001
+      position: {x: -0, y: 0, z: 0.027933806}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: intestine_A_001
+      parentName: Factice002
+      position: {x: -0, y: -0.00036170005, z: -0.00013427735}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000006}
+    - name: intestine_A_002
+      parentName: intestine_A_001
+      position: {x: -0.2616758, y: -0.00000015718398, z: -9.038558e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: intestine_A_003
+      parentName: intestine_A_002
+      position: {x: -0.26489732, y: -0.0000012064792, z: -8.688696e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000002}
+    - name: intestine_A_004
+      parentName: intestine_A_003
+      position: {x: -0.26224768, y: 0.000000009457204, z: 0.0000000011553907}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000001}
+    - name: intestine_A_005
+      parentName: intestine_A_004
+      position: {x: -0.26754007, y: -0.00000062429757, z: -0.0000000010437926}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000004}
+    - name: intestine_A_006
+      parentName: intestine_A_005
+      position: {x: -0.2622594, y: 0.0000000047636517, z: -5.784787e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000002}
+    - name: intestine_A_007
+      parentName: intestine_A_006
+      position: {x: -0.2675792, y: 0.00000012477827, z: -0.0000000013127731}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000008}
+    - name: intestine_A_008
+      parentName: intestine_A_007
+      position: {x: -0.2595383, y: -0.00000071593445, z: -0.0000000011854051}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999997, z: 0.99999976}
+    - name: intestine_A_009
+      parentName: intestine_A_008
+      position: {x: -0.27021417, y: 0.0000000045507997, z: -3.6627304e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000008}
+    - name: intestine_A_010
+      parentName: intestine_A_009
+      position: {x: -0.26224676, y: -0.000000033098313, z: 0.0000000019843045}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Factice006
+      parentName: Factice001
+      position: {x: 0.05377359, y: 0, z: -0.019207776}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: intestine_B_001
+      parentName: Factice006
+      position: {x: -0, y: -0.00036170005, z: -0.00013427735}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000006}
+    - name: intestine_B_002
+      parentName: intestine_B_001
+      position: {x: -0.2616758, y: -0.00000015718398, z: -9.038558e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: intestine_B_003
+      parentName: intestine_B_002
+      position: {x: -0.26489732, y: -0.0000012064792, z: -8.688696e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000002}
+    - name: intestine_B_004
+      parentName: intestine_B_003
+      position: {x: -0.26224768, y: 0.000000009457204, z: 0.0000000011553907}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000001}
+    - name: intestine_B_005
+      parentName: intestine_B_004
+      position: {x: -0.26754007, y: -0.00000062429757, z: -0.0000000010437926}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000004}
+    - name: intestine_B_006
+      parentName: intestine_B_005
+      position: {x: -0.2622594, y: 0.0000000047636517, z: -5.784787e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000007}
+    - name: intestine_B_007
+      parentName: intestine_B_006
+      position: {x: -0.2675792, y: 0.00000012477827, z: -0.0000000013127731}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: intestine_B_008
+      parentName: intestine_B_007
+      position: {x: -0.2595383, y: -0.00000071593445, z: -0.0000000011854051}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999996, z: 1.0000001}
+    - name: intestine_B_009
+      parentName: intestine_B_008
+      position: {x: -0.27021417, y: 0.0000000045507997, z: -3.6627304e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1.0000004, z: 0.99999905}
+    - name: intestine_B_010
+      parentName: intestine_B_009
+      position: {x: -0.26224676, y: -0.000000033098313, z: 0.0000000019843045}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: Factice007
+      parentName: Factice001
+      position: {x: -0.053875674, y: 0, z: -0.05355519}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: intestine_C_001
+      parentName: Factice007
+      position: {x: -0, y: -0.00036170005, z: -0.00013427735}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000006}
+    - name: intestine_C_002
+      parentName: intestine_C_001
+      position: {x: -0.2616758, y: -0.00000015718398, z: -9.038558e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: intestine_C_003
+      parentName: intestine_C_002
+      position: {x: -0.26489732, y: -0.0000012064792, z: -8.688696e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000002}
+    - name: intestine_C_004
+      parentName: intestine_C_003
+      position: {x: -0.26224768, y: 0.000000009457204, z: 0.0000000011553907}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000001}
+    - name: intestine_C_005
+      parentName: intestine_C_004
+      position: {x: -0.26754007, y: -0.00000062429757, z: -0.0000000010437926}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000004}
+    - name: intestine_C_006
+      parentName: intestine_C_005
+      position: {x: -0.2622594, y: 0.0000000047636517, z: -5.784787e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000002}
+    - name: intestine_C_007
+      parentName: intestine_C_006
+      position: {x: -0.2675792, y: 0.00000012477827, z: -0.0000000013127731}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000008}
+    - name: intestine_C_008
+      parentName: intestine_C_007
+      position: {x: -0.2595383, y: -0.00000071593445, z: -0.0000000011854051}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.99999976}
+    - name: intestine_C_009
+      parentName: intestine_C_008
+      position: {x: -0.27021417, y: 0.0000000045507997, z: -3.6627304e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
+    - name: intestine_C_010
+      parentName: intestine_C_009
+      position: {x: -0.26224676, y: -0.000000033098313, z: 0.0000000019843045}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000012, y: 1.0000012, z: 1.0000012}
+    - name: UNDEAD_ L Thigh
+      parentName: UNDEAD_ Spine
+      position: {x: 0.10920288, y: 0.0002706003, z: 0.10528095}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000048, y: 1.0000001, z: 1.0000023}
+    - name: UNDEAD_ L Calf
+      parentName: UNDEAD_ L Thigh
+      position: {x: -0.47479597, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000015, y: 1.0000035, z: 1.0000027}
+    - name: UNDEAD_ L Foot
+      parentName: UNDEAD_ L Calf
+      position: {x: -0.47479606, y: 0.000000009536743, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000017, y: 1.0000018, z: 1.0000004}
+    - name: UNDEAD_ L Toe0
+      parentName: UNDEAD_ L Foot
+      position: {x: -0.109202996, y: 0.14053957, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000007, y: 1, z: 1.0000004}
+    - name: UNDEAD_ Spine1
+      parentName: UNDEAD_ Spine
+      position: {x: -0.23099174, y: -0.00018393516, z: -5.587935e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: UNDEAD_ Neck
+      parentName: UNDEAD_ Spine1
+      position: {x: -0.23467177, y: -0.03301942, z: -0.00000004639849}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000002, y: 1.0000025, z: 0.99999964}
+    - name: UNDEAD_ L Clavicle
+      parentName: UNDEAD_ Neck
+      position: {x: 0.011194, y: -0.0071090506, z: 0.036787402}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 0.9999996, y: 1.0000008, z: 1.000002}
+    - name: UNDEAD_ L UpperArm
+      parentName: UNDEAD_ L Clavicle
+      position: {x: -0.12344686, y: 0, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000017, z: 1.0000014}
+    - name: UNDEAD_ L Forearm
+      parentName: UNDEAD_ L UpperArm
+      position: {x: -0.40565944, y: 0, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.9999997, z: 1.0000005}
+    - name: UNDEAD_ L Hand
+      parentName: UNDEAD_ L Forearm
+      position: {x: -0.295744, y: 0.000000019073486, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1.0000004, y: 1.0000043, z: 1.0000046}
+    - name: UNDEAD_ L Finger1
+      parentName: UNDEAD_ L Hand
+      position: {x: -0.11376304, y: 0.00035476685, z: -0.004846878}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: UNDEAD_ L Finger11
+      parentName: UNDEAD_ L Finger1
+      position: {x: -0.032537118, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 1.0000002, z: 1.0000004}
+    - name: UNDEAD_ L Finger12
+      parentName: UNDEAD_ L Finger11
+      position: {x: -0.032537155, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000012, z: 1.0000013}
+    - name: UNDEAD_ L Finger0
+      parentName: UNDEAD_ L Hand
+      position: {x: -0.056919478, y: 0.004347076, z: -0.044865835}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 0.9999993, y: 0.9999998, z: 1.0000002}
+    - name: UNDEAD_ L Finger01
+      parentName: UNDEAD_ L Finger0
+      position: {x: -0.02967472, y: -0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.99999976}
+    - name: UNDEAD_ L Finger02
+      parentName: UNDEAD_ L Finger01
+      position: {x: -0.03233425, y: 0.000000076293944, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: UNDEAD_ R Clavicle
+      parentName: UNDEAD_ Neck
+      position: {x: 0.011194, y: -0.0071088597, z: -0.036787532}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000076, y: 1.0000035, z: 1.0000036}
+    - name: UNDEAD_ R UpperArm
+      parentName: UNDEAD_ R Clavicle
+      position: {x: -0.12344684, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000018, y: 1.0000002, z: 1.0000013}
+    - name: UNDEAD_ R Forearm
+      parentName: UNDEAD_ R UpperArm
+      position: {x: -0.4056592, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000036, y: 1.0000019, z: 1.0000021}
+    - name: UNDEAD_ R Hand
+      parentName: UNDEAD_ R Forearm
+      position: {x: -0.29574397, y: 0.000000019073486, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000045, y: 1.0000046, z: 1.0000001}
+    - name: rustied_sword
+      parentName: UNDEAD_ R Hand
+      position: {x: -0.11071949, y: 0.011869964, z: 0.0025788879}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: rusty_axe
+      parentName: UNDEAD_ R Hand
+      position: {x: -0.11568111, y: 0.0154988095, z: 0.057430193}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: UNDEAD_ R Finger0
+      parentName: UNDEAD_ R Hand
+      position: {x: -0.056919478, y: 0.004346924, z: 0.04486584}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1.000001, y: 1, z: 0.99999994}
+    - name: UNDEAD_ R Finger01
+      parentName: UNDEAD_ R Finger0
+      position: {x: -0.02967476, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000012, z: 1.0000008}
+    - name: UNDEAD_ R Finger02
+      parentName: UNDEAD_ R Finger01
+      position: {x: -0.032334194, y: -0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000001}
+    - name: UNDEAD_ R Finger1
+      parentName: UNDEAD_ R Hand
+      position: {x: -0.113763005, y: 0.00035476685, z: 0.004846878}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999957, y: 0.99999845, z: 0.9999958}
+    - name: UNDEAD_ R Finger11
+      parentName: UNDEAD_ R Finger1
+      position: {x: -0.032537118, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999917, y: 0.9999993, z: 1.0000001}
+    - name: UNDEAD_ R Finger12
+      parentName: UNDEAD_ R Finger11
+      position: {x: -0.032537192, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000015, y: 1.0000014, z: 1.0000001}
+    - name: UNDEAD_ Head
+      parentName: UNDEAD_ Neck
+      position: {x: -0.08777786, y: 0, z: 1.8626451e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.9999993, z: 1.0000005}
+    - name: haircut_A
+      parentName: UNDEAD_ Head
+      position: {x: -0.23145035, y: 0.11882341, z: 0.0017475891}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: haircut_B
+      parentName: UNDEAD_ Head
+      position: {x: -0.23145035, y: 0.11882341, z: 0.0017475891}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: UNDEAD_ Queue de cheval 1
+      parentName: UNDEAD_ Head
+      position: {x: -0.057625424, y: 0.021045871, z: 0.0000007681921}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000019, z: 1.0000005}
+    - name: UNDEAD_ R Thigh
+      parentName: UNDEAD_ Spine
+      position: {x: 0.10920288, y: 0.00027118681, z: -0.10528094}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000025, y: 1.0000014, z: 0.99999976}
+    - name: UNDEAD_ R Calf
+      parentName: UNDEAD_ R Thigh
+      position: {x: -0.47479597, y: 0, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000005, z: 1.0000002}
+    - name: UNDEAD_ R Foot
+      parentName: UNDEAD_ R Calf
+      position: {x: -0.47479615, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.0000013, z: 1.0000006}
+    - name: UNDEAD_ R Toe0
+      parentName: UNDEAD_ R Foot
+      position: {x: -0.109202996, y: 0.14053959, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: shirt
+      parentName: UNDEAD(Clone)
+      position: {x: -0, y: 1.2709577, z: -0.06627549}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pants
+      parentName: UNDEAD(Clone)
+      position: {x: -0, y: 0.8097193, z: -0.054650497}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: boots
+      parentName: UNDEAD(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: intestines
+      parentName: UNDEAD(Clone)
+      position: {x: -0, y: 1.2201761, z: -0.056361694}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bare_foot
+      parentName: UNDEAD(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
